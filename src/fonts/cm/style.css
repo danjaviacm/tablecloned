@@ -1,0 +1,175 @@
+@font-face {
+	font-family: 'cm';
+	src:url('fonts/cm.eot?f4l9m5');
+	src:url('fonts/cm.eot?#iefixf4l9m5') format('embedded-opentype'),
+		url('fonts/cm.woff?f4l9m5') format('woff'),
+		url('fonts/cm.ttf?f4l9m5') format('truetype'),
+		url('fonts/cm.svg?f4l9m5#cm') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="cm-"], [class*=" cm-"] {
+	font-family: 'cm';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.cm-motorcycle:before {
+	content: "\e631";
+}
+.cm-team:before {
+	content: "\e630";
+}
+.cm-growth:before {
+	content: "\e62b";
+}
+.cm-master:before {
+	content: "\e62c";
+}
+.cm-teamwork:before {
+	content: "\e62d";
+}
+.cm-global:before {
+	content: "\e62e";
+}
+.cm-big-smile:before {
+	content: "\e62f";
+}
+.cm-stats:before {
+	content: "\e62a";
+}
+.cm-sheet:before {
+	content: "\e629";
+}
+.cm-pioneers:before {
+	content: "\e623";
+}
+.cm-person-circle:before {
+	content: "\e624";
+}
+.cm-multiple-documents:before {
+	content: "\e625";
+}
+.cm-money-circle:before {
+	content: "\e626";
+}
+.cm-insurance-company-technology:before {
+	content: "\e627";
+}
+.cm-check-square:before {
+	content: "\e628";
+}
+.cm-choose-hand:before {
+	content: "\e622";
+}
+.cm-clock-schedule:before {
+	content: "\e621";
+}
+.cm-attach-file:before {
+	content: "\e620";
+}
+.cm-car:before {
+	content: "\e61f";
+}
+.cm-coverage-technical-revision:before {
+	content: "\e61b";
+}
+.cm-coverage-travel-assitence:before {
+	content: "\e61a";
+}
+.cm-coverage-replacement-vehicle:before {
+	content: "\e61c";
+}
+.cm-coverage-personal-accidents:before {
+	content: "\e61d";
+}
+.cm-coverage-designated-driver:before {
+	content: "\e61e";
+}
+.cm-prices:before {
+	content: "\e616";
+}
+.cm-lock:before {
+	content: "\e617";
+}
+.cm-clock-alarm:before {
+	content: "\e618";
+}
+.cm-ab:before {
+	content: "\e619";
+}
+.cm-tips:before {
+	content: "\e612";
+}
+.cm-question-circle:before {
+	content: "\e613";
+}
+.cm-news:before {
+	content: "\e614";
+}
+.cm-multimedia:before {
+	content: "\e615";
+}
+.cm-quote-pointer:before {
+	content: "\e60f";
+}
+.cm-compare-circles:before {
+	content: "\e610";
+}
+.cm-choose:before {
+	content: "\e611";
+}
+.cm-question:before {
+	content: "\e60e";
+}
+.cm-clock:before {
+	content: "\e60d";
+}
+.cm-soat:before {
+	content: "\e600";
+}
+.cm-search:before {
+	content: "\e601";
+}
+.cm-save-money:before {
+	content: "\e602";
+}
+.cm-personal-accidents-insurance:before {
+	content: "\e603";
+}
+.cm-money:before {
+	content: "\e604";
+}
+.cm-loan:before {
+	content: "\e605";
+}
+.cm-life-insurance:before {
+	content: "\e606";
+}
+.cm-insurances:before {
+	content: "\e607";
+}
+.cm-credit-card:before {
+	content: "\e608";
+}
+.cm-compare:before {
+	content: "\e609";
+}
+.cm-cdt:before {
+	content: "\e60a";
+}
+.cm-cars-insurance:before {
+	content: "\e60b";
+}
+.cm-banks:before {
+	content: "\e60c";
+}

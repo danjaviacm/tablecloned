@@ -1,0 +1,105 @@
+// =============================================================================
+// Navigation Bar
+// =============================================================================
+@import "../../node_modules/bootstrap/less/navbar.less";
+
+.comparamejor-main-header.rastreator {
+  background: white;
+  overflow: hidden;
+  img.logo {
+    margin: 15px;
+  }
+
+  img.octopus {
+    margin-top: -9px;
+  }
+
+  .list-faqs {
+    margin-top: 15px;
+    display: inline-block;
+
+    .icon {
+      margin-top: 15px;
+      padding: 20px;
+      cursor: pointer;
+
+      i {
+        font-size: 2em;
+        color: @blue-sd;
+      }
+    }
+  }
+
+  .contact {
+    margin: 22px 15px;
+    float: right;
+    .first, .second {
+      display: block;
+      color: @blue;
+      font-family: "BebasNeueRegular", Helvetica, Arial, sans-serif;
+      line-height: 100%;
+      text-align: right;
+    }
+
+    .first {
+      font-size: 35px;
+      i {
+        color: #aaa;
+      }
+    }
+
+    .second {
+      font-size: 32px;
+    }
+  }
+
+  .btn-callme {
+    float: right;
+    display: block;
+    padding: 10px 15px;
+    margin-top: 20px;
+    margin-right: 15px;
+    border: 1px solid @green-sd;
+    border-radius: 4px;
+    color: @green-sd - #434343;
+    transition: all .4s;
+    background: transparent;
+    &:hover {
+      text-decoration: none;
+      background: @green-sd;
+    }
+  }
+
+  @media (max-width: @screen-xs-max) {
+    img.logo {
+      margin-top: 23px;
+      height: 40px;
+      width: auto;
+    }
+  }
+
+  @media (max-width: @screen-xs-min) {
+    img.logo {
+      margin-top: 23px;
+      height: 35px;
+      width: auto;
+    }
+  }
+
+  @media (max-width: 360px) {
+    img.logo {
+      margin-top: 23px;
+      height: 30px;
+      width: auto;
+    }
+
+    .btn-callme {
+      padding: 5px 10px;
+      margin-right: 10px;
+    }
+  }
+}
+
+.mg {
+  margin-top: 10px!important;
+}

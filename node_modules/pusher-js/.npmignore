@@ -1,0 +1,10 @@
+/config/config.yml
+.rvmrc
+.bundle
+*.DS_Store
+*.swp
+dist/*
+!/dist/*.js
+coverage
+node_modules
+target
